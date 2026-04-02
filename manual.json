@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-04-02T04:45:1171634",
+        "malt":
+                {"appearances": 21,
+            "views": 4,
+            "favorites": 7,
+            "average-ranking": 24
+        }
+            ,
+        "linkedIn": 907,
+        "github": 
+        {"followers": 13,
+            "repositories": 63,
+            "stars": 48,
+            "following": 35
+        },
+        "stakoverflow": 1631
+    }
+]
