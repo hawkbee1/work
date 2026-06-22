@@ -7,7 +7,12 @@
             "favorites": 7,
             "average-ranking": 24
         },
-        "linkedIn": 907,
+        "linkedIn": {
+            "connections": 907,
+            "post-impressions-7d": 0,
+            "profile-viewers": 0,
+            "search-appearances": 0
+        },
         "github": {
             "followers": 13,
             "repositories": 63,
@@ -24,7 +29,12 @@
             "favorites": 7,
             "average-ranking": 19
         },
-        "linkedIn": 927,
+        "linkedIn": {
+            "connections": 927,
+            "post-impressions-7d": 0,
+            "profile-viewers": 0,
+            "search-appearances": 0
+        },
         "github": {
             "followers": 13,
             "repositories": 65,
@@ -32,5 +42,28 @@
             "following": 35
         },
         "stakoverflow": 1631
+    },
+        {
+        "timestamp": "2026-06-22T04:45:1171634",
+        "malt": {
+            "appearances": 59,
+            "views": 19,
+            "favorites": 7,
+            "average-ranking": 18
+        },
+        "linkedIn": {
+            "connections": 929,
+            "post-impressions-7d": 559,
+            "profile-viewers": 44,
+            "search-appearances": 13
+        },
+        "github": {
+            "followers": 13,
+            "repositories": 69,
+            "stars": 51,
+            "following": 35
+        },
+        "stakoverflow": 1631
     }
+
 ]
